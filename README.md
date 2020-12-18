@@ -41,5 +41,7 @@ This dataset contains 29731 rows and 14 columns. Each variable represents one in
 - **FlightBagsWeight:** Baggage weight in kg
 
 
+### Problem goals
+
 
 
