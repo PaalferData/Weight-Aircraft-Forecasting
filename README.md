@@ -20,7 +20,7 @@ This dataset contains 29731 rows and 14 columns. Each variable represents one in
 
 - **DepartureDay:** Day of the flight
 
-- **Flightnumber:** Flight's ID
+- **FlightNumber:** Flight's ID
 
 - **DepartureAirport:** Place where you start your journey
 
