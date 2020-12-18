@@ -12,33 +12,33 @@ The dataset used was collected from the measures of a flying company has done in
 
 This dataset contains 29731 rows and 14 columns. Each variable represents one information that the company can extract when one user decides to carry out a flight or when you decide to buy a ticket. The variables measured are the following:
 
-- <u> DepartureDate: </u> Date of the flight
+- **DepartureDate:** Date of the flight
 
-- DepartureYear: Year of the flight
+- **DepartureYear:** Year of the flight
 
-- DepartureMonth: Month of the flight
+- **DepartureMonth:** Month of the flight
 
-- DepartureDay: Day of the flight
+- **DepartureDay:** Day of the flight
 
-- Flightnumber: Flight's ID
+- **Flightnumber:** Flight's ID
 
-- DepartureAirport: Place where you start your journey
+- **DepartureAirport:** Place where you start your journey
 
-- ArrivalAirport: Place where you finish your journey
+- **ArrivalAirport:** Place where you finish your journey
 
-- Route: Mix of both above variables
+- **Route:** Mix of both above variables
 
-- ActualFlightTime: Flight time in minutes
+- **ActualFlightTime:** Flight time in minutes
 
-- ActualTotalFuel: Fuel used in the route
+- **ActualTotalFuel:** Fuel used in the route
 
-- ActualTOW: Take-Off Weight, Take off weight of the aircraft in kg
+- **ActualTOW:** Take-Off Weight, Take off weight of the aircraft in kg
 
-- FLownPasengers: Number of passengers on board the aircraft
+- **FLownPasengers:** Number of passengers on board the aircraft
 
-- BagsCount: Number of checked in bags
+- **BagsCount:** Number of checked in bags
 
-- FlightBagsWeight: Baggage weight in kg
+- **FlightBagsWeight:** Baggage weight in kg
 
 
 
