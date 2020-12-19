@@ -43,5 +43,8 @@ This dataset contains 29731 rows and 14 columns. Each variable represents one in
 
 ### Problem goals
 
+The goal of the project is to predict the variable "ActualTOW". The data contains the fight measures in 15 days long. the feature has the following distribution through the time:
+
+
 
 
