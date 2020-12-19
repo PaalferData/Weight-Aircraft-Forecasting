@@ -45,6 +45,4 @@ This dataset contains 29731 rows and 14 columns. Each variable represents one in
 
 The goal of the project is to predict the variable "ActualTOW". The data contains the fight measures in 15 days long. the feature has the following distribution through the time:
 
-![goals](https://user-images.githubusercontent.com/39053209/102686534-a0261300-41e8-11eb-9f91-6368285c49ab.png)
-
 
