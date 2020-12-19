@@ -66,6 +66,6 @@ The forecasting was successful. Neverhteless, I am going to give one considerati
 
 - In order to extract the fuel spent at the flight, these operations can be done:
 
-1. *(fuel at the beggining) - (fuel at the end)
+1. *(fuel at the beggining)* - *(fuel at the end)*
 
 2. *(average fuel spending per hour)* * *(time of the trip measured in hour)*
