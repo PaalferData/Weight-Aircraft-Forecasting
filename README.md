@@ -62,4 +62,10 @@ The results can be checked in the following graphic:
 
 <img src = "Images/conclusion.png" width = 1000>
 
+The forecasting was successful. Neverhteless, I am going to give one consideration:
 
+- In order to extract the fuel spent at the flight, these operations can be done:
+
+1. *(fuel at the beggining) - (fuel at the end)
+
+2. *(average fuel spending per hour)* * *(time of the trip measured in hour)*
