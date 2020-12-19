@@ -64,7 +64,7 @@ The results can be checked in the following graphic:
 
 The forecasting was successful. Nevertheless, I am going to give one consideration:
 
-- In order to extract the fuel spent at the flight, these operations can be done:
+- In order to extract the fuel spent at the flight and getting a better variable, these operations can be done:
 
 1. *(fuel at the beggining)* - *(fuel at the end)*
 
