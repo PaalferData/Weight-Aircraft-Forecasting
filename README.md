@@ -47,3 +47,9 @@ The goal of the project is to predict the variable "ActualTOW". The data contain
 
 <img src = "Images/goals.png" width = 500>
 
+
+### Conclusion
+
+
+
+
