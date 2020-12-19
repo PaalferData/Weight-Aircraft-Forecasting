@@ -62,7 +62,7 @@ The results can be checked in the following graphic:
 
 <img src = "Images/conclusion.png" width = 1000>
 
-The forecasting was successful. Neverhteless, I am going to give one consideration:
+The forecasting was successful. Nevertheless, I am going to give one consideration:
 
 - In order to extract the fuel spent at the flight, these operations can be done:
 
