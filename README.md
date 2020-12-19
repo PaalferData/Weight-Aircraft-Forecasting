@@ -60,6 +60,6 @@ The best prediction performance resulted in the following metrics:
 
 The results can be checked in the following graphic:
 
-<img src = "Images/conclusion.png" width = 500>
+<img src = "Images/conclusion.png" width = 1000>
 
 
