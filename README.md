@@ -50,6 +50,16 @@ The goal of the project is to predict the variable "ActualTOW". The data contain
 
 ### Conclusion
 
+3 different learning regressors (Linear Regression, Decission Tree Regression and SGD Regression) were tested, and I have achieved the best prediction performance using Linear Regression, followed by SGD Regression, while Decission Tree Regression achieved the worst performance of the three.
 
+The best prediction performance resulted in the following metrics:
+
+- R-squared Score (R2_Score): **0.8804**
+
+- Root mean squared error (RMSE): **0.3458**
+
+The results can be checked in the following graphic:
+
+<img src = "Images/conclusion.png" width = 100>
 
 
