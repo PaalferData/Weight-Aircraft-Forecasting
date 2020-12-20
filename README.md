@@ -10,7 +10,7 @@ The dataset used was collected from the measures of a flying company has done in
 
 ### Data description
 
-This dataset contains 29731 rows and 14 columns. Each variable represents one information that the company can extract when one user decides to carry out a flight or when you decide to buy a ticket. The variables measured are the following:
+This dataset contains 29731 rows and 14 columns. Each variable represents one information that the company can extract when one user decides to carry out a flight or when decides to buy a ticket. The variables measured are the following:
 
 - **DepartureDate:** Date of the flight
 
